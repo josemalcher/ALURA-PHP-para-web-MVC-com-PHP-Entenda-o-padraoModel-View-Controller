@@ -19,7 +19,7 @@ https://cursos.alura.com.br/course/php-model-view-controller
 
 ## <a name="parte1">1 - Uma entrada para as requisições Ver primeiro vídeo</a>
 
-
+- [gerenciador-cursos](gerenciador-cursos)
 
 [Voltar ao Índice](#indice)
 
