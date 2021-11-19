@@ -4,10 +4,10 @@
 namespace Alura\Cursos\Controller;
 
 
-class FormularioInsercao
+class FormularioInsercao implements InterfaceControladorRequisicao
 {
 
-    public function processaRequisicao()
+    public function processaRequisicao(): void
     {
         ?>
 
