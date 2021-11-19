@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/composer" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/gerenciador-cursos/vendor/doctrine/dbal" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
